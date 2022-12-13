@@ -1,4 +1,4 @@
-Hi there 👋 I'm Finnian from the UK 👽
+<h2> Hi there 👋 I'm Finnian from the UK 👽 </h2>
 
 - 🔭 I’m currently working on [Moss Radio](https://www.mossradio.live/)
 
