@@ -1,8 +1,8 @@
 <h2> Hi there 👋 I'm Finnian from the UK 👽 </h2>
 
-- 🔭 I’m currently working on [Moss Radio](https://www.mossradio.live/)
+- 🔭 I’ve just finished [Moss Radio](https://www.mossradio.live/)
 
-- 🌱 I’m also learning **React**
+- 🌱 I’m currently working through FreeCodeCamp's Javascript Certification 
 
 - 💬 Ask me about **Ruby**
 
