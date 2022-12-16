@@ -2,7 +2,7 @@
 
 - 🔭 I’ve just finished [Moss Radio](https://www.mossradio.live/)
 
-- 🌱 I’m currently working through FreeCodeCamp's Javascript Certification 
+- 🌱 I’m currently working through FreeCodeCamp's **Javascript Certification**
 
 - 💬 Ask me about **Ruby**
 
