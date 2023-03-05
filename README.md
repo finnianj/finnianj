@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact: **I love drumming!** 🥁
 
-- 🤝 As well as completeing Le Wagon's Fullstack Web Develeopment Bootcamp, I've completed certifications in [Data Visualisation](https://www.freecodecamp.org/certification/Finnian_Charlton_Jones/data-visualization), [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/certification/Finnian_Charlton_Jones/javascript-algorithms-and-data-structures) and [React & Front End Libraries](https://www.freecodecamp.org/certification/Finnian_Charlton_Jones/front-end-development-libraries).
+- 🤝 As well as completeing Le Wagon's [Fullstack Web Develeopment Bootcamp](https://kitt.lewagon.com/schoolings/22767/public_diploma?token=0b5dfa10a908f7e729afebfc8f26c892e2925f2226c51689d4f56c5725090578), I've completed certifications in [Data Visualisation](https://www.freecodecamp.org/certification/Finnian_Charlton_Jones/data-visualization), [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/certification/Finnian_Charlton_Jones/javascript-algorithms-and-data-structures) and [React & Front End Libraries](https://www.freecodecamp.org/certification/Finnian_Charlton_Jones/front-end-development-libraries).
 
 
 <h3 align="left">Languages and Tools:</h3>
