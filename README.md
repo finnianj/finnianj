@@ -2,11 +2,11 @@
 
 - 🔭 I recently built [Moss Radio](https://www.mossradio.live/)
 
-- 🧠 I've just completed FreeCodeCamp's [**Front End Development Libraries Certification** ](https://www.freecodecamp.org/certification/Finnian_Charlton_Jones/front-end-development-libraries)
+- 🧠 I've just completed FreeCodeCamp's [**Data Visualisation Certification** ](https://codepen.io/finnianj/pen/xxaOPeQ)
 
-- 🌱 I’m currently working through FreeCodeCamp's **Data Visualisation Certification**
+- 🌱 I’m currently learning about **Cloud Computing**
 
-- 💬 Ask me about **Ruby**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me: **charltonjones.fj@gmail.com**
 
