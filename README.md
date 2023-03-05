@@ -12,6 +12,9 @@
 
 - ⚡ Fun fact: **I love drumming!** 🥁
 
+- 🤝 As well as completeing Le Wagon's Fullstack Web Develeopment Bootcamp, I've completed certifications in [Data Visualisation](https://www.freecodecamp.org/certification/Finnian_Charlton_Jones/data-visualization), [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/certification/Finnian_Charlton_Jones/javascript-algorithms-and-data-structures) and [React & Front End Libraries](https://www.freecodecamp.org/certification/Finnian_Charlton_Jones/front-end-development-libraries).
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a>
