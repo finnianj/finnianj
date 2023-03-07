@@ -4,7 +4,7 @@
 
 - 🧠 I've just completed FreeCodeCamp's [**Data Visualisation Certification** ](https://codepen.io/finnianj/pen/xxaOPeQ)
 
-- 🌱 I’m currently learning more about **Relational Databases**
+- 🌱 I’m currently learning more about **Relational Databases and Bash Scripting**
 
 - 💬 Ask me about **Javascript**
 
