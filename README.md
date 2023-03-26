@@ -19,7 +19,7 @@
 <p align="left">
  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.clipartmax.com/png/middle/195-1955753_zero-to-production-node-node-js-icon-png.png" alt="nodejs" width="40" height="40"/> </a>
+ <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://image.pngaaa.com/668/4547668-middle.png" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bash_Logo_White.svg/1024px-Bash_Logo_White.svg.png" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a>
