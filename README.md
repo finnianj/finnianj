@@ -4,7 +4,7 @@
 
 - 🧠 I've just completed FreeCodeCamp's [**Back End Development & API's Certification** ]([https://codepen.io/finnianj/pen/xxaOPeQ](https://www.freecodecamp.org/certification/Finnian_Charlton_Jones/back-end-development-and-apis))
 
-- 🌱 I’m currently learning more about **Relational Databases and Bash Scripting**
+- 🌱 I’m currently learning more about **Quality Assurance**
 
 - 💬 Ask me about **Javascript**
 
