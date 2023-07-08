@@ -4,7 +4,7 @@
 
 - 🧠 I've just completed FreeCodeCamp's [**Quality Assurance Certification** ](https://www.freecodecamp.org/certification/Finnian_Charlton_Jones/quality-assurance-v7)
 
-- 🌱 I’m currently learning more about **Three.js**
+- 🌱 I’m currently learning more about **Next.js**
 
 - 💬 Ask me about **Javascript**
 
