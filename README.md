@@ -2,7 +2,7 @@
 
 - 🔭 I recently built [My Three.js portfolio](https://www.finnianj.live/)
 
-- 🧠 I've just completed [**Finntech** ]((https://www.finntech.site/)), a digital banking app 
+- 🧠 I've just completed [**Finntech**]((https://www.finntech.site/))
 
 - 🌱 I’m currently learning more about **Next.js**
 
