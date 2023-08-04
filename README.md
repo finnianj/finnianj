@@ -2,7 +2,7 @@
 
 - 🔭 I recently built [My Three.js portfolio](https://www.finnianj.live/)
 
-- 🧠 I've just completed FreeCodeCamp's [**Quality Assurance Certification** ](https://www.freecodecamp.org/certification/Finnian_Charlton_Jones/quality-assurance-v7)
+- 🧠 I've just completed [**Finntech** ]((https://www.finntech.site/)), a digital banking app 
 
 - 🌱 I’m currently learning more about **Next.js**
 
