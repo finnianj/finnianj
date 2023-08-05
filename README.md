@@ -1,6 +1,6 @@
 <h2> Hi there 👋 I'm Finnian from the UK 👽 </h2>
 
-- 🔭 I recently built [My Three.js portfolio](https://www.finnianj.live/)
+- 🔭 I recently built [my Three.js 3D portfolio](https://www.finnianj.live/)
 
 - 🧠 I've just completed [**Finntech**](https://www.finntech.site/), a digital banking app
 
