@@ -2,7 +2,7 @@
 
 - 🔭 I recently built [my Three.js 3D portfolio](https://www.finnianj.live/)
 
-- 🧠 I've just completed [**Finntech**](https://www.finntech.site/), a digital banking app
+- 🧠 I've just completed [**Finntech**](https://www.finntech.site/), a digital banking app built with Next.js, React & Typescript.
 
 - 🌱 I’m currently learning more about **Next.js**
 
