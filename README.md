@@ -4,7 +4,7 @@
 
 - 🧠 I've just completed [**Finntech**](https://www.finntech.site/), a digital banking app built with Next.js, React & Typescript.
 
-- 🌱 I’m currently learning more about **Next.js**
+- 🌱 I’m currently learning more about **Unity**
 
 - 💬 Ask me about **Javascript**
 
