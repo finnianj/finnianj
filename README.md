@@ -1,8 +1,8 @@
 <h2> Hi there 👋 I'm Finnian from the UK 👽 </h2>
 
-- 🔭 I recently built [my Three.js 3D portfolio](https://www.finnianj.live/)
+- 🔭 I recently built [my Three.js 3D portfolio](https://www.finnianj.live/) & [**Finntech**](https://www.finntech.site/), a digital banking app.
 
-- 🧠 I've just completed [**Finntech**](https://www.finntech.site/), a digital banking app built with Next.js, React & Typescript.
+- 🧠 I work as a Full Stack Developer at [**Luccid.ai**](https://www.luccid.ai/)
 
 - 🌱 I’m currently learning more about **Unity**
 
